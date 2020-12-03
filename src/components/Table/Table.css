@@ -1,0 +1,14 @@
+.tableHead {
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgrey;
+}
+
+.table {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    border: black solid;
+    width: 1000px;
+    height: 500px;
+}
